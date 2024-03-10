@@ -2,19 +2,18 @@
 
 [Clique aqui](https://www.uol.com.br/)
 
-Texto em **negrito** e *italico*
+Texto em **negrito** e _italico_
 
 ~~deprecated~~
 
 ![Image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*GvpK9-2unOPPSuN7E5VlZg.jpeg)
 
-|p|q|p v e|
-|-|-|-----|
-|V|V|V|
-|V|F|V|
-|F|V|V|
-|F|F|F|
-
+| p   | q   | p v e |
+| --- | --- | ----- |
+| V   | V   | V     |
+| V   | F   | V     |
+| F   | V   | V     |
+| F   | F   | F     |
 
 ```html
 <!DOCTYPE html>
@@ -33,5 +32,9 @@ Texto em **negrito** e *italico*
     <h2>Novo h2</h2>
   </body>
 </html>
-
 ```
+
+## Lista
+
+1. Teste
+2. Teste 2
